@@ -2,9 +2,16 @@
 This project is a challenge of the course IOS & Swift - The Complete IOS App Development Bootcamp
 
 ## Screens 
-<img src="screen1.png" alt="screen" width="200"/>
-<img src="screen2.png" alt="screen" width="200"/>
-
+<table>
+  <tr>
+    <td>
+      <img src="screen1.png" alt="screen" width="200"/>
+    </td>
+    <td>
+      <img src="screen2.png" alt="screen" width="200"/>
+    </td>
+  <tr>
+</table>
 
 ## What was learned
 
